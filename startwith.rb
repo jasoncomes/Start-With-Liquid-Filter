@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-# startwith / https://www.notion.so/highereducation/startwith-5017821a08924768b44dd277f61a37cb
+# startwith / https://github.com/jasoncomes/Start-With-Liquid-Filter
 # This will take a given string and add text to the beginning of it. The text will not be added to the given string if the string already begins with the text.
 # {{ string | startwith: string_to_prepend }}
 
